@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
+import "./dist/css/main.css";
 import ScrollToTop from "./components/ScrollToTop";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
